@@ -6,10 +6,10 @@
 }
 table{
     border-collapse: collapse;
-    width: 700px;
+    width: 600px;
     height: 150px;
 }
 td,th{
     border: 1px solid lightblue; 
-    padding-left: 2px;
+    padding-left: 10px;
 }
