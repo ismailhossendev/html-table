@@ -1,0 +1,15 @@
+.table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+table{
+    border-collapse: collapse;
+    width: 700px;
+    height: 150px;
+}
+td,th{
+    border: 1px solid lightblue; 
+    padding-left: 2px;
+}
